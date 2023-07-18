@@ -1,0 +1,9 @@
+Account No: 1001
+Name: Jeremiah Cunanan Pagarigan
+Birthdate: December 20, 2001
+Gender: Male
+Address: 6# Sandalwoods
+Father's Name: Jaypee
+Mother's Name: Gladys
+Contact No: 09499755316
+Balance: 1500.0
